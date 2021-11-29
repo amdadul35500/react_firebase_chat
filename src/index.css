@@ -273,6 +273,9 @@ section .form {
   .message_form{
   margin-left: -45px;
   }
+  .user_detail{
+    margin-left: -35px;
+  }
 }
 
 @media screen and (max-width: 767px) {
